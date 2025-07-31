@@ -1,0 +1,16 @@
+import random
+def main():
+     numeroAle = random.randint()
+
+    numero = 0 
+    i = 0
+
+ while numeroAle !=numero:
+   if numero > numeroAle:
+   int (print("seu numero é maior"))
+   elif numero < numeroAle:
+   int (print("o seu numero é menor"))
+    i = i + 1
+    return 0
+   
+main()
